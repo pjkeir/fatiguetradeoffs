@@ -11,3 +11,5 @@ Upper body musculoskeletal disorders are the leading cause of lost time workplac
 
 ## Approach
 We used a probabilistic approach to generate a random sample of 1000 sagittal plane models based on population anthropometric variability.  For each model, we simulated a one-arm static pulling task at 50 N across four reach heights (80, 100, 120, and 140 cm) based on minimizing sum of joint moments.  To reflect "subtle" fatigue-induced changes, we altered upper extremity joints within +/- 5 degrees and re-solved for optimal postures.   
+
+![me](https://github.com/pjkeir/fatiguetradeoffs/blob/main/Figures/gif/Posture%20Prediction.gif)
