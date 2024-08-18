@@ -1,6 +1,6 @@
 # fatiguetradeoffs
 
-Team: Daanish Mulla, Nigel Majoni, Paul Tilley, Peter Keir
+Team: Kevin Kos, Daanish Mulla, Peter Keir
 
 ## Background
 Upper body musculoskeletal disorders are the leading cause of lost time workplace claims in Canada.  These injuries are typically caused by repetitive, forceful tasks.  Lab-based studies investigating kinematic adaptations to fatiguing, repetitive work often find "subtle" joint angle changes (< 5 degrees).  We aimed to answer the following three questions:
